@@ -9,7 +9,6 @@ do
         eval " > /root/king.txt"
 done
 
-#this script is created in 1 min :P
 ```
 > Method 2
 
